@@ -4,7 +4,7 @@
   </a>
 </h1>
    
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">    About Me:
 <p align="center">
   I'm Aya Maher, Software Developer from EGYPT
   <br>
