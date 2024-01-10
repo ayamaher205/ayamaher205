@@ -19,5 +19,5 @@
 ## 	Find me on:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/aya-maher-7b37b31b3)
 [<img src="https://img.shields.io/badge/leetcode-%2312100E.svg?&style=for-the-badge&logo=leetcode&logoColor=FFA116"/>](https://leetcode.com/aya_maher/)
-[<img src="https://img.shields.io/badge/codeforces-%2312100E.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=28A745"/>](https://codeforces.com/profile/Khedr/)
+[<img src="https://img.shields.io/badge/codeforces-%2312100E.svg?&style=for-the-badge&logo=codeforces&logoColor=white&color=28A745"/>](https://codeforces.com/profile/aya.maher5/)
 [<img src="https://img.shields.io/badge/hackerrank-%237536A1.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/>](https://www.hackerrank.com/aya_maher)
